@@ -42,4 +42,8 @@ For now, clone the repo and run on Android Studio:
 ```bash
 git clone https://github.com/your-repo/MetPass.git
 cd MetaPass
+cd backend
+npm install
+nodemon server.js
+
 
